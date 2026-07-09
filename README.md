@@ -148,7 +148,7 @@ snowflake-merchant-payment-pipeline/
 ## 💼 Work With Me
 
 - 📅 [Book a free 15-min call](https://calendly.com/mama-priyadarsini/15-minute-business-strategy-call)
-- 🔗 [LinkedIn](https://linkedin.com/in/mpriyadarsini)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/m-priyadarsini-00427141))
 - 🎥 [YouTube — Compounding Mind](https://youtube.com/@compoundingmind)
 
 *Remote consulting · Canada + US time zones*
