@@ -139,9 +139,9 @@ snowflake-merchant-payment-pipeline/
 
 | Project | Platform | Domain |
 |---|---|---|
-| [Customer Feedback Intelligence](../snowflake-cortex-feedback-pipeline) | Snowflake Cortex | AI/Retail |
+| [Customer Feedback Intelligence](https://github.com/mama-collab/snowflake-cortex-feedback-pipeline) | Snowflake Cortex | AI/Retail |
 | Merchant Payment Pipeline (this) | BigQuery + Snowflake | Financial Services |
-| [Insurance Fraud Detection](../databricks-insurance-fraud-detection) | Databricks | Insurance |
+| [Insurance Fraud Detection](https://github.com/mama-collab/databricks-insurance-fraud-detection) | Databricks | Insurance |
 
 ---
 
